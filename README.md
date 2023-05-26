@@ -1,7 +1,7 @@
 
 
 ### <h2 align="left">I welcome you!</h2>
-<details>
+<details><summary><b>Information about me</b></summary>
     
 <p align="left">
     
